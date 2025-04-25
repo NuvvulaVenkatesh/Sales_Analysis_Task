@@ -1,0 +1,15 @@
+# Power BI Dashboard – Task 4
+
+This repository contains a Power BI dashboard designed to analyze sales and financial data.
+
+## Key Highlights:
+- KPIs: Total Sales, Profit, Growth
+- Visuals: Cards, Line Chart, Bar Chart, Slicers
+- Features: Interactive filters, time-series trends
+
+## File:
+- Task 4.pdf (Dashboard report)
+
+## Tools Used:
+- Power BI
+- Dataset from Kaggle (Sales_Financial)
